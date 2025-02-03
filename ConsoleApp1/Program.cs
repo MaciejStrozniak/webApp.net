@@ -18,4 +18,3 @@ int ChangeNumberNew(int number, int numberToAdd) {
 
 Console.WriteLine("Hello, World! 2 ");
 FunctionNew(ChangeNumberNew(numberNew, 56), wordNew);
-// Console.WriteLine(FunctionNew());
