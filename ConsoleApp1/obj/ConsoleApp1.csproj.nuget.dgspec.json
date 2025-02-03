@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "c:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "c:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "c:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "c:\\IT\\webApp.net\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\IT\\webApp.net\\ConsoleApp1\\obj\\",
+        "outputPath": "c:\\IT\\webApp.net\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
